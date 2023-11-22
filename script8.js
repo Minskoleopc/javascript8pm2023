@@ -1,8 +1,6 @@
 
 
 // print "hello 3 times"
-
-
 // initialization 
 // while(condition){
 //     // statements
