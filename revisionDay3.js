@@ -76,7 +76,6 @@ else {
 }
 
 // program 5
-
 let x1 = 10
 let x2 = 5 
 let x3 = 4
@@ -91,9 +90,7 @@ else {
     console.log("x3 is greater")
 }
 
-
 // program 6 
-
 let q = 10
 let r = 50
 q > r ? console.log("q is greater"):console.log("r is greater")

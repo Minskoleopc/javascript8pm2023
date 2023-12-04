@@ -28,7 +28,6 @@ for(let i = 0 ; i < numbers.length ; i++){
     }
 }
 console.log(above40)
-
 // program 3
 //            0  1  2
 let marks  = [11,22,33] // 66
